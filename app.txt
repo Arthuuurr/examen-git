@@ -1,3 +1,8 @@
 GoLand
 WebStorm
 PhPStorm
+IntelliJ IDEA
+PyCharm
+DataGrip
+Visual Studio Code
+MariaDB
